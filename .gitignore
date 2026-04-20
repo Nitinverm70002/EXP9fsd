@@ -1,0 +1,17 @@
+# Spring Boot
+backend/target/
+backend/*.jar
+backend/.mvn/
+backend/.idea/
+backend/*.iml
+
+# Node / React
+frontend/node_modules/
+frontend/dist/
+frontend/.env
+frontend/.env.local
+
+# Docker / OS
+.DS_Store
+*.log
+docker-compose.override.yml
